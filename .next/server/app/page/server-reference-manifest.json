@@ -1,0 +1,35 @@
+{
+  "node": {
+    "40a0dff6a6a3fa1b68799db092663869587aac0dda": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-heat-status.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/ai-answer-questions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "analyzeHeatStatus",
+          "filename": "src/ai/flows/analyze-heat-status.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "analyzeHeatStatus",
+      "filename": "src/ai/flows/analyze-heat-status.ts"
+    },
+    "40fb5ee48984a542e656d141c5b7826f5b6f81b7eb": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-heat-status.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/ai-answer-questions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "aiAnswerQuestions",
+          "filename": "src/ai/flows/ai-answer-questions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "aiAnswerQuestions",
+      "filename": "src/ai/flows/ai-answer-questions.ts"
+    }
+  },
+  "edge": {}
+}
