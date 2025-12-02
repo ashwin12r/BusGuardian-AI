@@ -154,3 +154,4 @@ export default function SensorPanel({ sensorData, setSensorData, onAnalyze, isLo
     </Card>
   );
 }
+// forcing a git update
